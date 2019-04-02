@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "einsurance",
+    "packageName": "com.hbins.einsurance",
+    "packageFolder": "com/hbins/einsurance",
+    "serverPort": 8101,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ZmIzM2M5NTdhYWM2Y2RjYmI0NmFlNDExM2FjMTY2Mzc2OTNmYWM2OWM1ZGYzZmU5NmFmMmY1YTkzMGMwZThlYWZmYTI3MjE3NmFmMTBhOGMxMjQ1NWJmNWYyZmVlZDA3NDg0YzI0MDFkOWJhODQ2N2ZmOTgxYTgzMGFjNzI1NzM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "hbsinosoft",
+  "repository-name": "hbins-platform-einsurance"
+}
